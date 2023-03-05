@@ -20,7 +20,7 @@ Run `app.py` or `python3 -m flask run` in command terminal
 Currently runs on local host `http://127.0.0.1:5000/`             
 
 
-### Future developments:  
+### What's Next:  
 - Deploy app (currently only runs on local host)         
 - Better word recognition to support broader range of emotions    
 - More fun results :)         
