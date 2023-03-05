@@ -1,4 +1,4 @@
-# EmoBot                
+# EmoBot (´｡• ω •｡`)                
 
 ###### By Elaine Lee for Olehacks 2023             
 
