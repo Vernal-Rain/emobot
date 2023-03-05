@@ -23,5 +23,5 @@ Currently runs on local host `http://127.0.0.1:5000/`
 ### Future developments:  
 - Deploy app (currently only runs on local host)         
 - Better word recognition to support broader range of emotions    
-- More fun results         
+- More fun results :)         
 - Incorporate ML algorithms for more appropriate responses to complex entries                            
