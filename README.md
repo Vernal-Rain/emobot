@@ -6,7 +6,7 @@
 ### Summary:        
 Hi! This is EmoBot, an emotional support chat bot where you can
 tell it how you're feeling, and it will respond with a fun meme for
-a wide range of emotions          
+a wide range of emotions!          
 
 
 ### Dependencies:   
