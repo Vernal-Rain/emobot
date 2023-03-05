@@ -14,6 +14,11 @@ a wide range of emotions
 - Python 3.8
 - HTML
 
+ 
+##### How to Run:   
+Run app.py or `python3 -m flask run`
+Currently run on local host `http://127.0.0.1:5000/`
+
 
 ##### Future developments:  
 - Deploy app (currently only runs on local host)         
