@@ -1,4 +1,4 @@
-# EmoBot (´｡• ω •｡`)                
+# EmoBot              
 
 ###### By Elaine Lee for Olehacks 2023             
 
@@ -25,3 +25,6 @@ Currently runs on local host `http://127.0.0.1:5000/`
 - Better word recognition to support broader range of emotions    
 - More fun results :)         
 - Incorporate ML algorithms for more appropriate responses to complex entries                            
+
+
+###### (´｡• ω •｡`)   
